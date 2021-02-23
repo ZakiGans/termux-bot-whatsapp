@@ -1,4 +1,4 @@
-### I'm DimS Gift Me Stars 🌟 
+### I'm ZakiGans Gift Me Stars 🌟 
 
 ## Tools
 
@@ -17,7 +17,7 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/D1M5-DARKBOT/termux-bot-whatsapp
+> git clone https://github.com/ZakiGans/termux-bot-whatsapp
 > cd termux-bot-whatsapp
 > npm cache clear
 > bash install.sh
@@ -222,10 +222,7 @@ Follow The Steps Below!
 * [FXC7 OFFICIAL TEAM]
 
 
-* [Req Fitur](https://wa.me/6281368646011)
+* [Req Fitur](https://wa.me/6283144780782)
 
-## Group
-
-* <a href="https://chat.whatsapp.com/BtxiSvctCej1e1Ehkm8h9Q"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---
